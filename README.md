@@ -1,2 +1,2 @@
-##Demo :
-#http://gadgetshoplaravel.herokuapp.com/
+# Demo :
+## http://gadgetshoplaravel.herokuapp.com/
